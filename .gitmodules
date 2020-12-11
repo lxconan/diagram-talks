@@ -1,0 +1,3 @@
+[submodule "themes/memory"]
+	path = themes/memory
+	url = https://github.com/lxconan/hexo-theme-memory.git
