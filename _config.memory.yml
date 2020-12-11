@@ -1,7 +1,7 @@
 # Meta
-description: A minimal hexo theme.
-keywords: hexo,theme,otakism,otaku
-site_desc: otaku keeps alive
+description: Using diagrams to illustrating concepts
+keywords: diagram,tech
+site_desc: Diagram Talks
 
 # Navigation
 menu:
@@ -30,7 +30,7 @@ search:
 
 # Miscellaneous
 google_analytics:
-author_url: # https://artifact.me
+author_url: https://diagrams.today
 
 # Scss
 node_sass:
