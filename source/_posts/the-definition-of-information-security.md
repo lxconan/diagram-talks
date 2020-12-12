@@ -3,6 +3,10 @@ title: Information Security 的定义
 date: 2020-12-12 23:18:05
 tags:
 - information security
+- risk management
+- confidentiality
+- integrity
+- availability
 ---
 
 ![](/images/information-security-def-sm.png)

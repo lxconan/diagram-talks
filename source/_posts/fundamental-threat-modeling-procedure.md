@@ -5,6 +5,10 @@ tags:
 - security
 - threat
 - model
+- assets
+- vulnerability
+- threat
+- attack tree
 ---
 
 ![](/images/threat-model-sm.png)
