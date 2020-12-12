@@ -7,7 +7,7 @@ tags:
 - model
 ---
 
-![](/images/threat-model-big.png)
+![](/images/threat-model-sm.png)
 
 请进入文章下载高清版本的图片。
 
