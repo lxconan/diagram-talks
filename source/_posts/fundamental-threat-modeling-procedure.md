@@ -21,4 +21,4 @@ tags:
 
 高清版本请点击 [此处](/images/threat-model-big.png) 下载。
 
-<div style="text-align:center">本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。</div>
+<div style="text-align:center">本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。</div>
