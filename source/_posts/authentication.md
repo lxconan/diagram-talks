@@ -2,6 +2,13 @@
 title: 认证（Authentication）的基本概念
 date: 2020-12-13 23:15:02
 tags:
+- authentication
+- subject
+- object
+- identity
+- factors
+- MFA
+- man in the middle
 ---
 
 ![](/images/authentication-sm.png)
