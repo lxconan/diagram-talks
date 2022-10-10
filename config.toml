@@ -1,0 +1,43 @@
+title = "Diagram Talks"
+# baseURL = 'http://example.org/'
+defaultContentLanguage = 'en'
+languageCode = 'en'
+hasCJKLanguage = true
+theme = "FixIt"
+
+[author]
+  name = "lxconan@gmail.com"
+
+[params]
+  # site description
+  description = 'Diagram Talks'
+  # site keywords
+  keywords = ["diagram", "programming", "development"]
+
+[params.app]
+  # optional site title override for the app when added to an iOS home screen or Android launcher
+  title = "Diagram Talks"
+
+[params.header]
+  [params.header.title]
+    # URL of the LOGO
+    logo = "/new-logo.svg"
+    # title name
+    name = ""
+
+[params.footer]
+  license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>'
+
+[params.home]
+  [params.home.profile]
+    gravatarEmail = ""
+    avatarURL = "/avatar.jpeg"
+    subtitle = "Diagram Talks"
+
+[params.social]
+  GitHub = "https://github.com/lxconan"
+  Linkedin = "https://www.linkedin.com/in/lxconan"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
